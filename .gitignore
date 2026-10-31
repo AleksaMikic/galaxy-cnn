@@ -1,0 +1,31 @@
+# Dataset - NE commitovati (~5 GB, nije nas rad, vidi data/README.md)
+images/
+images_gz2/
+Galaksije*/
+*.zip
+*.csv
+*.csv.gz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+sample_data/
+
+# Checkpointi tokom treniranja (finalni model je u models/)
+best_model*.keras
+checkpoints/
+logs/
+
+# OS / editori
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
