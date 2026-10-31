@@ -179,8 +179,7 @@ i Hart et al. (2016).
 
 ## Napomene
 
-- `models/galaxy_cnn_model.keras` je 35 MB. Radi ispod GitHub limita od 100 MB, ali
-  je za verzionisanje modela preporučen **Git LFS** — `.gitattributes` je već
-  pripremljen, treba samo `git lfs install` pre prvog commita.
+- `models/galaxy_cnn_model.keras` je 35 MB i commitovan je kao običan fajl (ispod
+  GitHub limita od 100 MB), bez Git LFS-a.
 - Grafici u `results/` su iz originalnog Colab treninga, ne iz ponovnog pokretanja
   ovih skripti.
