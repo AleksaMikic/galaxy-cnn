@@ -4,8 +4,16 @@ Konvolutivna neuronska mreža koja klasifikuje slike galaksija iz **Galaxy Zoo 2
 morfološke klase: **Barred** (spiralna sa prečkom), **Elliptical** (eliptična) i
 **Spiral** (spiralna bez prečke).
 
-Projektni rad iz predmeta Neuralne mreže.
-Autori: `203/2023`, `134/2023` — *(dopuniti imena i fakultet)*
+Projektni rad iz predmeta Neuralne mreže na Elektrotehničkom fakultetu Univerziteta u Beogradu.
+
+## Autori
+
+- **Aleksa Mikić** ([@AleksaMikic](https://github.com/AleksaMikic))
+- **David M. Marković** ([@Dawidzard](https://github.com/Dawidzard))
+
+Projekat je zajednički izrađen prije objavljivanja repozitorijuma na GitHubu.
+
+Brojevi indeksa: `203/2023`, `134/2023`.
 
 ---
 
